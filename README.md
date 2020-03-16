@@ -5,4 +5,4 @@ Use this to box the faces, then crop boxed faces: https://www.kaggle.com/c/deepf
 
 Then run through image classifier
 
-Healthy face dataset: color FERET database - https://www.nist.gov/itl/products-and-services/color-feret-database
+Healthy face dataset: color FERET database - https://www.nist.gov/itl/products-and-services/color-feret-database (sent an email for downloading; awaiting approval)
